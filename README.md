@@ -1,2 +1,2 @@
 # Attendance_System
-Multible ,Cameras , reporting
+Multiple ,Cameras , reporting
